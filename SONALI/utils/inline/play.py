@@ -40,25 +40,25 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
     if 0 < umm <= 10:
-        bar = "🅢—————————"
+        bar =————————"
     elif 10 < umm < 20:
-        bar = "—🅞————————"
+        bar = "—𝅘𝅥𝅯————————"
     elif 20 <= umm < 30:
-        bar = "——🅝———————"
+        bar = "——𝅘𝅥𝅯———————"
     elif 30 <= umm < 40:
-        bar = "———🅐——————"
+        bar = "———𝅘𝅥𝅯——————"
     elif 40 <= umm < 50:
-        bar = "————♡—————"
+        bar = "————𝅘𝅥𝅯—————"
     elif 50 <= umm < 60:
-        bar = "—————🅡————"
+        bar = "—————𝅘𝅥𝅯————"
     elif 60 <= umm < 70:
-        bar = "——————🅐———"
+        bar = "——————𝅘𝅥𝅯———"
     elif 70 <= umm < 80:
-        bar = "———————🅙——"
+        bar = "———————𝅘𝅥𝅯——"
     elif 80 <= umm < 95:
-        bar = "————————🅐—"
+        bar = "————————𝅘𝅥𝅯—"
     else:
-        bar = "—————————♡"
+        bar = "—————————𝅘𝅥𝅯"
 
     buttons = [
         [
@@ -76,13 +76,13 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="𝖮ᴡɴᴇʀ 🥀", url="https://t.me/uttam470",
+                text="𝛩ᴡɴᴇʀ", url="https://t.me/uttam470",
             ),
             InlineKeyboardButton(
-                text="𝖲ᴜᴘᴘᴏʀᴛ 🥀", url="https://t.me/+j6FO8pK8IIkxZDU1",
+                text="𝛅ᴜᴘᴘᴏʀᴛ", url="https://t.me/+j6FO8pK8IIkxZDU1",
             )
         ],
-         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="𝛓ʟᴏsᴇ")],
         ]
 
     return buttons
@@ -99,10 +99,10 @@ def stream_markup(_, videoid, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋🥀", url="https://t.me/uttam470",
+                text="𝛩ᴡɴᴇʀ", url="https://t.me/uttam470",
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍🥀", url="https://t.me/+j6FO8pK8IIkxZDU1",
+                text="𝛅ᴜᴘᴘᴏʀᴛ", url="https://t.me/+j6FO8pK8IIkxZDU1",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
