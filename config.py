@@ -13,9 +13,9 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","UTTAM470")
+OWNER_USERNAME = getenv("OWNER_USERNAME","tum_jaha_ham_wahi")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","BABY_MUSIC09_BOT")
+BOT_USERNAME = getenv("BOT_USERNAME","ll_ARVIK_MUSICBOT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7400383704))
+OWNER_ID = int(getenv("OWNER_ID", 6754480012))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -47,8 +47,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BABY09_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+j6FO8pK8IIkxZDU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+9DHw3n0VZk05Njdl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/harrysfeel")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -86,15 +86,15 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/e9235a8a2a63ca4954c04.jpg"
+    "START_IMG_URL", "https://graph.org/file/670fa730d5eabb62b505a.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/bf626ed0d58fdae880574.jpg"
+    "PING_IMG_URL", "https://graph.org/file/66ab5aa0c2566363eb1e4.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/955294e1ca1cb4d5bd951.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
+PLAYLIST_IMG_URL = ""
+STATS_IMG_URL = "https://graph.org/file/721c7c9fcd5e4b26a0d3e.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/cf15c7533f8fe5a96e48f.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/cf15c7533f8fe5a96e48f.jpg"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
