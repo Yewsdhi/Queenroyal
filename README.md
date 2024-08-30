@@ -1,50 +1,108 @@
- <h1> <img src="https://graph.org/file/772ba470b6b1d5a4f49d6.jpg" height="90px" width="80px"> 𝗛𝗘𝗬 𝗧𝗛𝗘𝗥𝗘 , 𝗧𝗛𝗜𝗦 𝗜𝗦 𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™ </h1>
-<p align="center">
+━━━━━━━━━━━━━━━━━━━━
 
-ㅤ[![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/harry27173/harry27173)
-   [![𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪 =‌𐏓 𝄗⃝🇮🇳™](https://github-stats-alpha.vercel.app/api?username=harry27173 "harry27173")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
-
- <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=🦅+harry27173+𓆩◕🇭𝐀𝐑𝐑𝐘◕𓆪+𝗞𝗜𝗡𝗚+👑">
-
-
-<!--
-**WCGKING/WCGKING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+<h2 align="center">
+    ──「𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ」──
+</h2>
 
 <p align="center">
-    <b>ᴘʀᴏғɪʟᴇ ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/WCGKING/count.svg" />
+  <img src="https://graph.org/file/4e5932e15f499cf354f5c.jpg">
 </p>
 
+<p align="center">
+<a href="https://github.com/WCGKING/stargazers"><img src="https://img.shields.io/github/stars/WCGKING/BrandrdXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/WCGKING/BrandrdXMusic/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BrandrdXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/WCGKING/BrandrdXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/WCGKING/BrandrdXMusic/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BrandrdXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
 
-<h1>ʜɪ ! ɪᴛ's ᴍᴇ 🇭𝐀𝐑𝐑𝐘 ᴋɪɴɢ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28"></h1>
-
-<h2>ᴛᴇᴄʜ sᴛᴀᴄᴋ <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30"</img></h2>
-
-![](https://skillicons.dev/icons?i=python,vscode,linux,git,github,githubactions,flask,html,markdown,sqlite,mysql,postgres,redis)
+━━━━━━━━━━━━━━━━━━━━
+</h2>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;📡+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;❤️+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ">
 
 <p align="center">
-  <a href="https://t.me/tum_jaha_ham_wahi"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
-    </p>
-<p align="center">
+  <img src="https://graph.org/file/8aa026a0e9790422a1bdf.jpg">
+</p>
+
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandrdXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
-<h3>
-    
-<h1>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h1>
-  
-
-[<img src="https://github-readme-stats.vercel.app/api?username=WCGKING&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/WCGKING) 
-[<img src="https://github-readme-streak-stats.herokuapp.com/?user=WCGKING&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/WCGKING) 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WCGKING&theme=radical&layout=compact">](https://github.com/WCGKING)
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ](https://t.me/ll_ARVIK_MUSICBOT)**
 
 
-| <a href="https://t.me/tum_jaha_ham_wahi"><img 
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[ᴍᴀɢɪᴄɪᴀɴ  ᴏғ ᴍʏ ᴏᴡɴ ᴡᴏʀʟᴅ 🌎](https://t.me/tum_jaha_ham_wahi)**                                                                                |
-| <a href="https://t.me/harry_bots"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a> <a href="https://www.instagram.com/tum_jaha_ham_wahi?igsh=N3U4bXpjcDZjc20="><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" width="100px" height="100px"></a>                                                                                                                                                                <a href="https://t.me/harrysfeel"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="100px" height="100px"></a>
 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
 
-    
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
+
+- Get your [Necessary Variables](https://github.com/harry27173/blob/master/sample.env)
+---
+
+### 🔧 Quick Setup
+
+1. **Upgrade & Update:**
+   ```bash
+   sudo apt-get update && sudo apt-get upgrade -y
+   ```
+
+2. **Install Required Packages:**
+   ```bash
+   sudo apt-get install python3-pip ffmpeg -y
+   ```
+3. **Setting up PIP**
+   ```bash
+   sudo pip3 install -U pip
+   ```
+4. **Installing Node**
+   ```bash
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash && source ~/.bashrc && nvm install v18
+   ```
+5. **Clone the Repository**
+   ```bash
+   git clone https://github.com/WCGKING/BrandrdXMusic && cd BrandrdXMusic
+   ```
+6. **Install Requirements**
+   ```bash
+   pip3 install -U -r requirements.txt
+   ```
+7. **Create .env  with sample.env**
+   ```bash
+   cp sample.env .env
+   ```
+   - Edit .env with your vars
+8. **Editing Vars:**
+   ```bash
+   vi .env
+   ```
+   - Edit .env with your values.
+   - Press `I` button on keyboard to start editing.
+   - Press `Ctrl + C`  once you are done with editing vars and type `:wq` to save .env or `:qa` to exit editing.
+9. **Installing tmux**
+    ```bash
+    sudo apt install tmux -y && tmux
+    ```
+10. **Run the Bot**
+    ```bash
+    bash start
+━━━━━━━━━━━━━━━━━━━━
+
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://t.me/harry_bots"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://t.me/harry_bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/harry27173/harry27173) ғᴏʀ [𝐙ᴏʏᴀ ✘ 𝐌ᴜsɪᴄ](https://t.me/harry_bots)_</b>
