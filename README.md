@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/harry27173/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/harryashu5/SOMALI_MUSIC/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
